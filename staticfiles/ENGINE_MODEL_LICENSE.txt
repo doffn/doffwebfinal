@@ -1,0 +1,6 @@
+GEnx-inspired cutaway model
+
+Asset: genx-inspired-cutaway.glb
+Format: glTF Binary (GLB) 2.0
+
+This is an original generated educational illustration inspired by a high-bypass turbofan architecture. It is not OEM GEnx-1B CAD, not dimensionally validated engineering geometry, and not approved maintenance data. It must not be used for aircraft maintenance, inspection, repair, training sign-off, airworthiness or operational decisions.
